@@ -1,6 +1,6 @@
 # Frontend Mentor - Launch countdown timer solution
 
-This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/Screenshots/Desktop SS.JPG)
+![Final Website Screenshot](/Screenshots/Desktop SS.JPG)
 
 
 
@@ -56,4 +56,3 @@ Doing this project taught me several Javascript and CSS functionalities I didn't
 
 - [Figma Website](https://www.figma.com/) - This helped me to easily get the hex codes for colors I needed to complete this project. I really liked this pattern and will use it going forward.
 - [w3schools for CSS](https://www.w3schools.com/css/default.asp) - This is an amazing website which helped me finally understand some CSS concepts which I had skipped earlier, like using different types of parameters for background color- linear gradient. I'd recommend it to anyone still learning this concept.
-
