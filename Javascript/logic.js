@@ -89,29 +89,29 @@ let id=setInterval(action,1000);
 let facebook=document.getElementById('facebook');
 
 facebook.onmouseover = function(){
-    facebook.setAttribute("src","/images/facebook-red.svg");
+    facebook.setAttribute("src","images/facebook-red.svg");
 }
 facebook.onmouseout= function(){
-    facebook.setAttribute("src","/images/icon-facebook.svg");
+    facebook.setAttribute("src","images/icon-facebook.svg");
 }
 
 let pinterest=document.getElementById('pinterest');
  
 pinterest.onmouseover = function(){
-    pinterest.setAttribute("src","/images/pinterest-red.svg");
+    pinterest.setAttribute("src","images/pinterest-red.svg");
 }
 pinterest.onmouseout= function(){
-    pinterest.setAttribute("src","/images/icon-pinterest.svg");
+    pinterest.setAttribute("src","images/icon-pinterest.svg");
 }
  
 
 let instagram=document.getElementById('instagram');
  
 instagram.onmouseover = function(){
-    instagram.setAttribute("src","/images/instagram-red.svg");
+    instagram.setAttribute("src","images/instagram-red.svg");
 }
 instagram.onmouseout= function(){
-    instagram.setAttribute("src","/images/icon-instagram.svg");
+    instagram.setAttribute("src","images/icon-instagram.svg");
 }
  
 
