@@ -28,15 +28,11 @@ Users should be able to:
 - **Bonus**: When a number changes, make the card flip from the middle
 
 ### Screenshot
+Here is the screenshot of how my final website looks.
+![](/Screenshots/Desktop%20SS.JPG)
 
-![Final Website Screenshot](Screenshots/Desktop SS.JPG)
 
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
