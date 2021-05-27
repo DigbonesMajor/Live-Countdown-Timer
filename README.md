@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Final Website Screenshot](/Screenshots/Desktop SS.JPG)
+![Final Website Screenshot](Screenshots/Desktop SS.JPG)
 
 
 
